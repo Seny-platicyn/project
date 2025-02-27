@@ -1,1 +1,0 @@
-my_first_token = '7573039861:AAHyFG5fmgXsKikOseQykcj2AA-uMObUwSM'
